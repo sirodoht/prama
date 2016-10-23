@@ -1,0 +1,19 @@
+{
+  "name": "prama",
+  "version": "1.0.0",
+  "description": "Too simple deployable node.js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirodoht/prama.git"
+  },
+  "author": "sirodoht",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sirodoht/prama/issues"
+  },
+  "homepage": "https://github.com/sirodoht/prama#readme"
+}
